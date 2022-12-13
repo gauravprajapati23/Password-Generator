@@ -8,11 +8,11 @@
 3.pkg install git<br>
 4.pkg install python<br>
 5.git clone https://github.com/MrRC09/Password-Generator-<br>
-6.cd Password-Generator-
+6.cd Password-Generator-<br>
 7.chmod +x main.py<br>
 8.python main.py<br>
-<br>
+<hr>
 And there is your unique password.
 <br>
-Documented by Gaurav Prajapati.
+<li "style=font-size:3px;">Documented by Gaurav Prajapati.</li>
 <br>
