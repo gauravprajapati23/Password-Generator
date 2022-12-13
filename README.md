@@ -2,7 +2,7 @@
 
 # Termux
 
-Steps to install <br>
+<h4>Steps to install</h4> <br>
 1.pkg update <br>
 2.pkg upgrade <br>
 3.pkg install git<br>
