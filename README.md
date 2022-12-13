@@ -14,5 +14,6 @@
 <hr>
 And there is your unique password.
 <br>
+<hr>
 <li "style=font-size:3px;">Documented by Gaurav Prajapati.</li>
 <br>
