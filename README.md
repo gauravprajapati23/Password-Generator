@@ -3,7 +3,7 @@
 # Termux
 
 Steps to install
-1.pkg update
+1.pkg update <br>
 2.pkg upgrade 
 3.pkg install git
 4.pkg install python
