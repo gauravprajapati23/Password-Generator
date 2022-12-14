@@ -15,7 +15,5 @@
 And there is your unique password.
 <br>
 <hr>
-
-
-<h6>Documented by Gaurav Prajapati.</h6>
+<h6><li>Documented by Gaurav Prajapati.</li></h6>
 <br>
